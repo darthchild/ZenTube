@@ -10,7 +10,7 @@ This project is my personal take on the YouTube experience, designed to help me 
 1. Clone the repository:
    ```
    git clone git@github.com:darthchild/ZenTube.git
-   cd zentube-main
+   cd zentube
    ```
 
 2. Open the playlistData.json file located in the root directory.
