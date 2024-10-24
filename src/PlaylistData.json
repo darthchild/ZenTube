@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "📺 Watch Later",
+      "category": "YouTube • Mixed",
+      "url": "https://www.youtube.com/playlist?list=WL"
+    },
+    {
+      "id": 2,
+      "title": "⭐ WL2",
+      "category": "Assorted • Watch Later",
+      "url": "https://www.youtube.com/playlist?list=PLdnQmODDZlwQMM6S60r23kEkiY0NtFd7k"
+    },
+    {
+      "id": 3,
+      "title": "👩‍💻 CS",
+      "category": "Software Engineering",
+      "url": "https://www.youtube.com/playlist?list=PLdnQmODDZlwQzc_6ui3iB0isVZQIuCqe_"
+    },
+    {
+      "id": 4,
+      "title": "🛠️ Tutorials",
+      "category": "CS • Building Stuff",
+      "url": "https://www.youtube.com/playlist?list=PLdnQmODDZlwTDDUZlPxGbsz3gyVan9U88"
+    },
+    {
+      "id": 5,
+      "title": "🎤Listen",
+      "category": "Podcasts • Important",
+      "url": "https://www.youtube.com/playlist?list=PLdnQmODDZlwSSWOJfgUnWbNsntcG66hv4"
+    },
+    {
+      "id": 6,
+      "title": "📜 History",
+      "category": "Historical • Documentaries",
+      "url": "https://www.youtube.com/playlist?list=PLdnQmODDZlwSWsXNpPZLni4UkdraRgUl5"
+    },
+    {
+      "id": 7,
+      "title": "🎵 Music Saved",
+      "category": "Music • Assorted",
+      "url": "https://www.youtube.com/playlist?list=PLdnQmODDZlwTASY6fG2hXrhReLQxf2rJ-"
+    },
+    {
+      "id": 8,
+      "title": "🦜 TED",
+      "category": "TED Talks • LIsten",
+      "url": "https://www.youtube.com/playlist?list=PLdnQmODDZlwQI7qI_GTQZopgDIe2CPy3y"
+    },
+    {
+      "id": 9,
+      "title": "👍 Liked Videos",
+      "category": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=LL"
+    },
+    {
+      "id": 10,
+      "title": "💾 The Saved",
+      "category": "**saved**",
+      "url": "https://www.youtube.com/playlist?list=PLdnQmODDZlwQmK_16J3-6-_5D3VHRGUr9"
+    },
+    {
+      "id": 11,
+      "title": "🎺 Classique",
+      "category": "Music • Ambient",
+      "url": "https://www.youtube.com/playlist?list=PLdnQmODDZlwRy8N2ZRpsH_urVSFdLWp3R"
+    },
+    {
+      "id": 12,
+      "title": "📚 All Playlists",
+      "category": "YouTube",
+      "url": "https://www.youtube.com/feed/playlists"
+    }
+  ]
