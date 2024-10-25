@@ -13,7 +13,7 @@ This project is my personal take on the YouTube experience, designed to help me 
    cd zentube
    ```
 
-2. Open the ```playlistData.json``` file located in the root directory.
+2. Open the ```playlistData.json``` file located in the ```/src``` directory.
 
 3. Fill in the details of your playlists. Ensure the format matches the required structure.
 
