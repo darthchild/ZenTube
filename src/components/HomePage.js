@@ -3,8 +3,6 @@ import PlaylistCard from './PlaylistCard';
 import playlists from '../PlaylistData.json'
 
 const HomePage = () => {
-  // Sample playlist data - in a real app, this might come from an API
-  
 
   const handlePlaylistClick = (url) => {
     window.open(url, '_blank');
